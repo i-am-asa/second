@@ -1,0 +1,86 @@
+body{
+  background-color: #CCFFBD;
+}
+.nav{
+    background-color: #EDFFEC;
+}
+.body{
+  padding: 2% 10%;
+}
+.content{
+  width: 80%;
+  margin:auto;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+  color: #263238;
+  margin-bottom: 40px;
+
+}
+.lead{
+  color: #546E7A;
+  }
+  .project{
+    margin-top: 100px;
+  }
+  .img-fluid{
+    width: 400px;
+    margin-left: 50px;
+  }
+  .col-lg-6{
+    margin-top: 50px;
+  }
+  .project{
+    margin-bottom: 100px;
+  }
+  .tools{
+    text-align: center;
+  }
+  .toolin{
+    text-align: center;
+  }
+.col1{
+  margin: auto;
+}
+.wix{
+margin-left: 50px;
+text-align: center;
+margin-right: 50px;
+margin-bottom: 100px;
+margin-top: 50px;
+}
+.tool{
+  background-color:  #EDFFEC;
+}
+.contact{
+  margin-left: 100px;
+  margin-top: auto;
+}
+.Connect{
+  text-align: center;
+  margin-top: 80px;
+   background-color: #EDFFEC;
+   margin-right: -10px;
+
+}
+.icon{
+ margin-top: 20px;
+ width: 45%;
+ margin-left: 375px;
+ margin-bottom: 50px;
+}
+.fb:hover{
+  background-color:#28527A;
+}
+.tweet:hover{
+  background-color: #E4FBFF;
+}
+.insta:hover{
+  background-color: black;
+}
+.link:hover{
+  background-color: blue;
+}
+.navigationbar:hover{
+  background-color: #CCFFBD;
+}
